@@ -132,3 +132,11 @@ The dataset is used for analytical demonstration. This is an independent case st
 ### Drake Strategy & Analytics
 
 *Finding opportunities in the numbers and turning them into practical business decisions.*
+
+### SQL Analysis
+
+Want to see how I found the patterns behind the missed appointments?
+
+This file contains the PostgreSQL queries used to examine no-show rates, appointment times, weekday patterns, data quality, and potential revenue exposure.
+
+**[View the SQL Analysis](dsa_healthcare_revenue_analysis_clean.sql)**
